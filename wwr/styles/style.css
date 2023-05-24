@@ -1,0 +1,114 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto; 
+  }
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto; 
+  }
+
+  nav a {
+    text-align: center;
+  }
+  
+  #hero-msg h1,
+  #hero-msg h4 {
+    text-align: center;
+  }
+  
+  
+  .button-box {
+    text-align: center;
+  }
+
+  main section{
+    text-align: center;
+  }
+  
+#background {
+    height: 725px;
+}
+
+.icon {
+    width: 80px;
+}
+             
+
+/* Set background color for body */
+body {
+    background-color:white;
+    color: #ffffff;
+  }
+  
+  /* Set background color for header */
+  header {
+    background-color: #ff9900;
+    color: #ffffff;
+  }
+  
+  /* Set background color for nav links on hover */
+  nav a:hover {
+    background-color: #ffc04d ;
+    color: #000000;
+  }
+  
+  /* Set background color for elements with class "book" and "join" */
+  .book, .join {
+    background-color: #ffffff;
+    color: #000000; 
+  }
+
+  /* Set background color for elements with class "book" and "join" on hover */
+  .book:hover, .join:hover {
+    background-color:  #e6e6e6; 
+    color: #000000;
+  }
+  
+  /* Set background color for element with ID "background" */
+  #background {
+    background-color: #0099cc ; 
+    color: #ffffff;
+  }
+  
+  /* Set background color for elements with class "msg" */
+  .msg {
+    background-color: #f5f5f5; 
+    color: #000000;
+  }
+  
+  /* Set background color for footer */
+  footer {
+    background-color: #333333; 
+    color: #ffffff;
+  }
+
+  nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+  }
+  
+  
+  .book, .join {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+  }
+  
+  
+  footer a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+  }
+
+  footer p {
+    font-size: 1.2em;
+}    
+              
+footer p a:hover {
+    text-decoration: underline;
+}    
+         
+  
